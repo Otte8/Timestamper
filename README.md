@@ -67,4 +67,4 @@ To change the key used to log a timestamp all you have to do is to edit the Time
 if key.char == "q":
 ```
 
-is on line 27. You can change the q inside the quotation marks to a different letter. This can be changed whenever you want it, and the effects take place, when you run the script the next time.
+is on line 18. You can change the q inside the quotation marks to a different letter. This can be changed whenever you want it, and the effects take place, when you run the script the next time.
